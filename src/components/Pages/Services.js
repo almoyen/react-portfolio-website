@@ -24,7 +24,7 @@ const Services = () => {
 
             <div className="col-block service-item ">
                 <div className="service-icon service-icon--brand-identity">
-                    <i className="icon-tv"></i>
+                    <i className="icon-wordpress"></i>
                 </div>
                 <div className="service-text">
                     <h3 className="h4">WordPress Development</h3>

@@ -25,7 +25,7 @@ const HomeSide = () => {
                 <span className="home-social-text">LinkedIn</span>
             </a></li>
             <li><a href="https://pph.me/moyen">
-                <i className="fab fa-linkedin"></i>
+                
                 <span className="home-social-text">Hire Me on PeoplePerHour</span>
             </a></li>
             
