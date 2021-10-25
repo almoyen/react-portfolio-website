@@ -20,7 +20,7 @@ const Home = () => {
              Abdullah Al Moyen!
             </h1>
             <p>
-              I'm an aspiring Full Stack Developer
+              I'm a Full Stack Developer
               who loves to work with forward-thinking people and organizations
               by developing digital solutions that makes a difference in the world.
             </p>
