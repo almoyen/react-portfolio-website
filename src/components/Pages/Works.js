@@ -75,7 +75,7 @@ const Works = () => {
                     <div className="item-folio">
 
                         <div className="item-folio__thumb">
-                            <a href="https://itradely-com.web.app/" className="thumb-link">
+                            <a href="https://itradely.com/" className="thumb-link">
                                 <img src={iTradely} alt=""/>
                             </a>
                         </div>
